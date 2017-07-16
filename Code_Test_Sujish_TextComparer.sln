@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code_Test_Sujish_TextComparer", "Code_Test_Sujish_TextComparer\Code_Test_Sujish_TextComparer.csproj", "{C4792793-28A7-4670-BC6B-CA68C28D8864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextComparer.Tests", "TextComparer.Test\TextComparer.Tests.csproj", "{996C1244-515C-45BD-B331-12F6F0093C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4792793-28A7-4670-BC6B-CA68C28D8864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4792793-28A7-4670-BC6B-CA68C28D8864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4792793-28A7-4670-BC6B-CA68C28D8864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4792793-28A7-4670-BC6B-CA68C28D8864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{996C1244-515C-45BD-B331-12F6F0093C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996C1244-515C-45BD-B331-12F6F0093C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996C1244-515C-45BD-B331-12F6F0093C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996C1244-515C-45BD-B331-12F6F0093C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
